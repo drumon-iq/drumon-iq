@@ -1,13 +1,8 @@
 # DRUMON
 
-I'm new to coding in general, got into it for personal interest, might become a job ...
-  
-- I do, in fact, enjoy spending time on virtual eletronic games, how unusual, anyways, my favorite gaming delightments include 
-a very broad spectrum from Minecraft to DS3
-- Might post small MincedCraft mods ... who knows?
-- Small projects might also pop in my GitHub
-- And school?
-- Cats
+<h1>Hello There!</h1>
+
+There isn't much useful content here yet because I'm not really using anything that useful yet ... It will change ... 
 
 <!--
 **drumon-iq/drumon-iq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
