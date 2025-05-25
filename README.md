@@ -2,4 +2,8 @@
 
 ---
 
-Nothing here but us chickens!
+## *THIS USER!!!!*
+
+## *GOOD PRATICES FEAR HIM!!!!*
+
+## *BUGS LOVE HIM!!!!!!!!!!*
